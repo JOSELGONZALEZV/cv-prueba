@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #bd5d38;
+  --primary: #240cbe;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -9777,11 +9777,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #1118f3da !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color:#1118f3da !important;
 }
 
 .text-secondary {
@@ -10041,9 +10041,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 11rem;
+    max-height: 60rem;
+    border: 0.3rem solid rgba(244, 237, 237, 0.996);
   }
   #sideNav .navbar-collapse {
     display: flex;

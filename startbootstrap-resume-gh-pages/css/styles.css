@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #7d21bf;
   text-decoration: underline;
 }
 
@@ -10043,7 +10043,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 11rem;
     max-height: 60rem;
-    border: 0.3rem solid rgba(244, 237, 237, 0.996);
+    border: 0.3rem solid rgba(195, 200, 224, 0.996);
   }
   #sideNav .navbar-collapse {
     display: flex;

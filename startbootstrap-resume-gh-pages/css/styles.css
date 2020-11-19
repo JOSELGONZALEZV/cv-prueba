@@ -6076,12 +6076,14 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #040642da !important;
+  background: linear-gradient(to bottom,rgba(124, 134, 192, 0.855) 0%, #010225da  100%) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
   background-color: #964a2c !important;
+  
 }
 
 .bg-secondary {
@@ -9777,11 +9779,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #040642da !important;
+  color: #202370da !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color:#1118f3da !important;
+  color:#1920ddda !important;
 }
 
 .text-secondary {
